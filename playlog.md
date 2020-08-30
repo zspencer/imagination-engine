@@ -66,6 +66,38 @@ Pause (no rest)
 
 ## Session 3 (Growing Season, Second of Ahn, Early Evening, Cloudy Weather)
 
+Cooked the Grank, talked with Eye about why they were raiding; learned that the
+Duke of Kal had taken their stores and fields and turned them into a barracks.
 
+Tried to convince Fes and Earl not to go back and fight, but failed.
 
+### (Growing Season, Third of Ahn, Early Morning, Clear Weather)
 
+Felt Befriends Ben, and learns that Fes is interested in heading back North.
+
+LaCroix makes a pie for Fes and Ben, and it makes Ben think LaCroix is
+incompetent.  Fes agrees to head north, but wants to figure out how to survive
+the journey.
+
+LaCroix heads north, and tries to find breakfast for Felt; and is attacked by 3
+Culdinaries. This is unusual for them.
+
+LaCroix found DabblingWaka traks, and followed them to 4,4 where they meet Daw.
+Daw tells them that the woods started getting a bit more violent a few months
+ago. LaCroix invites Daw to go for a walk in the woods. They walk north, and are
+jumped by some Ablegriks.
+
+Daw transforms into a Dabblinwakka, and is bit through the skin by the Ablegrik.
+
+LaCroix performs a new technique, shooting two arrows at once. Gets bit by an
+Ablegrik, which Felt pulls off of LaCroix.
+
+Daw uses a magical spell to amplify a ROAR that terrifies the two remaining
+Ablegriks, who flee.
+
+LaCroix walks Daw back to their hut, and learns about some of the calls of the
+animals in the region.
+
+Pitched the tent in the backyard, and took a long rest.
+
+Meanwhile, the Kal-dar have attemped to sneakily rob the village.

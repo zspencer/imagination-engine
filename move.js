@@ -23,8 +23,9 @@ const loc = await readJson('loc.json');
 const newLoc = directions.reduce((loc, direction) => translate(loc, direction), loc)
 
 const decoder = new TextDecoder("utf-8");
-const des = await Deno.readFile(`loc-${newLoc.latitude}-${newLoc.longitude}.md`);
+const des = await Deno.readFile(`loc/loc-${newLoc.latitude}-${newLoc.longitude}.md`);
 
+console.log(newLoc)
 console.log(decoder.decode(des));
 
 await writeJson('loc.json', newLoc);
