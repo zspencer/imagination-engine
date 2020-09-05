@@ -1,10 +1,3 @@
-### Shores and Swamps
-Darninbird - A small, skittish seabird. Most are about the size of a palm. Their
-calls sound like the common blessing "Darn" and are considered good luck to
-bring with you on a sea voyage.
-
-Chandar - Chandar are large, carnivorous serpents with dark red scales. They
-have been known to attack and even chase people.
 
 ### Forests
 
