@@ -1,3 +1,4 @@
+## Del, Residents
 
 ### The Defenders of Del
 
@@ -30,4 +31,17 @@ Daw wears a rough brown robe, his bald head gleams with sweat.
 
 #### Cun, the impish; seeker of compassion (2/1)
 Cun wears a rought flax robe, his beard is neatly braided and oiled.
+
+### The Tradesfolk of Del
+
+####
+
+## Del, Outskirts
+
+### The Delian Woodfolk
+
+#### Daw, the Vain; Seeker of Salvation
+
+Daw lives in a bright pink hut in the forests North West of Del. As a druid, Daw
+transforms into a powerful Dablingwakka.
 
