@@ -101,3 +101,53 @@ animals in the region.
 Pitched the tent in the backyard, and took a long rest.
 
 Meanwhile, the Kal-dar have attemped to sneakily rob the village.
+
+## Session 4 (Fourth of Ahn, Early Morning, Slightly Foggy Weather)
+
+After breakfast with Daw, LaCroix heads to the Kal'Dar camp down south.
+
+There was no one around, so LaCroix waited for a couple hours.
+
+About an hour later, laCroix heard voices; and emerged to hail them.
+
+LaCroix reiterated that the Kal-Dar should not steal from or attack towns; which
+angered Fes. Fes declared that no one gets to tell them what to do, since
+they're the boss and attacked LaCroix.
+
+During the battle, Fes was hurt slightly; but LaCroix managed to wear Fes down
+by using a double arrow and then berating them for not eating well enough.
+
+They returned to the camp, where Lacroix offered Fes some tea with a remedy, but
+Fes refused it and then threw the bottle of Remedy in the brush.
+
+### Fourth of Ahn, (Early Afternoon, Clear Weather)
+
+After tea, Thelonius  apologized for hurting Fes. 
+
+They walked to Daw's cabin. Daw had a Biddlenut in their hut, which was making
+some trouble. Daw told them there are berries and nuts all around. Thelonious
+encourages them to find Berries first.
+
+Eye finds some berries, and follows Thelonious instructions ot touch them first
+to their arm, then their lips, then their tongue to see if they're safe. But Eye
+eats them before waiting too long.
+
+Thelonious asks Daw where to find nuts, and Daw hits a tree with their walking
+stick, and catches a nut as it falls from the tree. Thelonious encourages the
+group to put out their tunics and hit the trees with their weapons; but not many
+nuts are found.
+
+From there, Thelonious asks Daw where other nuts may be, and Daw shows them a
+bush with enough nuts for a half a day of food.
+
+They gather those nuts, and then Thelonious tells them to begin turning over
+rocks to expose Culdinary. Eye and Earl flip some rocks, but both Eye and Earl
+fail to bring down their targets.
+
+Fes and Ben manage to uncover a couple more. Thelonious shoots one to
+demonstrate how to make a quick, clean kill. Ben then chases down and bludgeons
+a Culdinary to death with their short sword; quite ungracefully.
+
+Daw agrees to teach them how to cook what they've gathered and hunted.
+
+End at 4,5
