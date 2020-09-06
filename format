@@ -1,0 +1,4 @@
+#!/bin/bash
+
+deno fmt --ignore=deps.bundle.js --unstable
+prettier --write *.html

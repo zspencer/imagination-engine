@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# We bundle up our external dependencies to reduce load-time
+deno bundle -L info --lock=lock.json deps.ts deps.bundle.js 

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-deno run --lock=lock.json --cached-only --allow-read --unstable \
-  generate-encounter.js $@
+deno run --lock=lock.json --cached-only --allow-read \
+  generate-scene.js $@

@@ -1,4 +1,4 @@
-import { jsdom, parse } from "./deps.ts";
+import { jsdom, parse } from "./deps.bundle.js";
 import sample from "./lib/sample.js";
 const { JSDOM } = jsdom;
 
