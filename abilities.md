@@ -5,4 +5,3 @@ Success: Damage both targets
 Touch Choice: Damage one target
 Failure: Miss both
 Catastrophic failure: Miss both, plus a setback
-

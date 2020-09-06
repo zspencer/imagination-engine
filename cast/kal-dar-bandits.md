@@ -1,4 +1,5 @@
 ## The Kal-dar "Bandits", Refuges from the Northern realm of Kal.
+
 **Base**: Camp at 0,3
 **Refugees from the far north.**
 

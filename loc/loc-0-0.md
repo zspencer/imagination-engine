@@ -10,17 +10,15 @@ To the east is a beach with a small cove in the distance.
 
 To the west the beach is cut off by a sheer cliff that towers over the sand.
 
-
 # Opening Scene
 
 The bright sunlight beats down on you as you lie sprawled out on the beach. You
 don't quite know how you got here, nor where here really even is. The last thing
 you _do_ remember is... well... Nothing?
 
-You try to recall your name... What was it...? 
+You try to recall your name... What was it...?
 
 The sound of the waves on the shore are broken by the calls of birds overhead.
 You feel something brush against your legs.
 
-*A Burmut(2/1) is nuzzling the players leg*
-
+_A Burmut(2/1) is nuzzling the players leg_

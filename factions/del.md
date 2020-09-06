@@ -6,8 +6,7 @@ of Del.
 It's a peaceful village, that mostly serves as a place for the [monks of del] to
 study their philosophy.
 
-
-[monks of del]:./cast/monks-of-del.md
+[monks of del]: ./cast/monks-of-del.md
 
 ### Sub-Factions
 

@@ -15,8 +15,3 @@ Exiles from Kal, the Kal-Dar are hungry and scared. See
 ### The Kal Royalists
 
 The Kal Royalists. See [./cast/kal-royalists.md].
-
-
-
-
-

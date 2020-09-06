@@ -1,4 +1,3 @@
-
 To the north is a small camp
 
 To the south is a cliff that drops off into the ocean.

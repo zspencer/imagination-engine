@@ -2,7 +2,7 @@
 
 The bright sunlight beats down on Thelonious LaCroix as he lies sprawled out on
 the beach. He doesn't quite know how he got here, nor where here really even is.
-The last thing Thelonious LaCroix _does_ remember is... well...  Nothing?
+The last thing Thelonious LaCroix _does_ remember is... well... Nothing?
 
 Thelonious LaCroix awoke on the beach, and startled away a Burmut. He attempted
 to blaze a trail through the forest. His spear got caught in some vines; so he
@@ -42,7 +42,6 @@ the Bandits an hour away.
 Thelonios tried to convince Ee that the barricade was too weak, and also unnecessrary.
 Then got fed up and walked along the road to meet the bandits.
 
-
 Thelonios gave them your Remedy potion, and convinced them that you would bring
 them food tomorrow. Gathered some edible roots and berries and such from the
 forest; then slept over night in your Tent in a Tin
@@ -76,7 +75,7 @@ Tried to convince Fes and Earl not to go back and fight, but failed.
 Felt Befriends Ben, and learns that Fes is interested in heading back North.
 
 LaCroix makes a pie for Fes and Ben, and it makes Ben think LaCroix is
-incompetent.  Fes agrees to head north, but wants to figure out how to survive
+incompetent. Fes agrees to head north, but wants to figure out how to survive
 the journey.
 
 LaCroix heads north, and tries to find breakfast for Felt; and is attacked by 3
@@ -122,7 +121,7 @@ Fes refused it and then threw the bottle of Remedy in the brush.
 
 ### Fourth of Ahn, (Early Afternoon, Clear Weather)
 
-After tea, Thelonius  apologized for hurting Fes. 
+After tea, Thelonius apologized for hurting Fes.
 
 They walked to Daw's cabin. Daw had a Biddlenut in their hut, which was making
 some trouble. Daw told them there are berries and nuts all around. Thelonious
