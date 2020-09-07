@@ -1,7 +1,6 @@
-import { readJson, writeJson } from 'https://deno.land/std/fs/mod.ts';
-import { parse } from "https://deno.land/std/flags/mod.ts";
+import { readJson, writeJson, parseFlags } from "./deps.bundle.js";
 
-const directions = parse(Deno.args)._
+const directions = parseFlags(Deno.args)._;
 
 const encoder = new TextEncoder("utf-8");
 const locationPath = (loc) => {

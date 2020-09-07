@@ -1,4 +1,5 @@
 #!/bin/bash
 
+deno cache --lock-write --reload --lock=lock.json deps.ts --unstable
 # We bundle up our external dependencies to reduce load-time
-deno bundle -L info --lock=lock.json deps.ts deps.bundle.js 
+deno bundle -L info --lock=lock.json deps.ts deps.bundle.js --unstable
