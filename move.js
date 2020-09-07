@@ -1,49 +1,16 @@
 import { readJson, writeJson, parseFlags } from "./deps.bundle.js";
+import { loadOrGenerate } from './lib/tile.js'
+import { translateAll } from './lib/coordinate.js'
+
+
+
 
 const directions = parseFlags(Deno.args)._;
+const loc = await readJson("loc.json");
+const newLoc = translateAll(loc, directions)
 
-const encoder = new TextEncoder("utf-8");
-const locationPath = (loc) => {
-  return `loc/loc-${loc.latitude}-${loc.longitude}.md`
-}
-const loadOrGenerate = async (loc) => {
-  try {
-    return await Deno.readFile(locationPath(loc));
-  } catch(e) {
-    if(e.name !== "NotFound") { throw e }
-    await Deno.writeFile(locationPath(loc), encoder.encode(''));
-    return await Deno.readFile(locationPath(loc));
-  }
-}
+const destination = await loadOrGenerate(newLoc);
 
-const translate = (loc, direction) => {
-  if(direction == "north") {
-    return { ...loc, latitude: loc.latitude + 1 }
-  }
-  if(direction == "south") {
-    return { ...loc, latitude: loc.latitude - 1 }
-  }
+console.log(destination);
 
-  if(direction == "west") {
-    return { ...loc, longitude: loc.longitude + 1 }
-  }
-
-  if(direction == "east") {
-    return { ...loc, longitude: loc.longitude - 1 }
-  }
-}
-
-const loc = await readJson('loc.json');
-const newLoc = directions.reduce((loc, direction) => translate(loc, direction), loc)
-
-const decoder = new TextDecoder("utf-8");
-const destination = loadOrGenerate(newLoc)
-
-console.log(newLoc)
-console.log(decoder.decode(destination));
-
-await writeJson('loc.json', newLoc);
-
-
-
-
+await writeJson("loc.json", newLoc);
