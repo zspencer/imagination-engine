@@ -1,3 +1,5 @@
+#!/usr/bin/env -S deno run --allow-read
+
 import name from "./lib/name.js";
 import ideal from "./lib/ideal.js";
 import flawed from "./lib/flawed.js";
