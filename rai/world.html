@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<biome id="shores">
-  <name>Shores</name>
-  <creature id="darninbird">
+<biome id="ocean-shores">
+  <name>Ocean Shores</name>
+  <creature biomes="oceans ocean-shores" id="darninbird">
     <name>Darninbird</name>
     <description
       >A <size>small</size>, <personality>skittish</personality>
@@ -11,33 +11,33 @@
       <distinction>considered good luck on a sea voyage.</distinction>
     </description>
   </creature>
-  <creature id="chandar">
+  <creature biomes="ocean-shores rivers swamps" id="chandar">
     <name>Chandar</name>
-    <description
-      >Chandar are <size>large</size>, <diet>carnivorous</diet>
+    <description>
+      Chandar are <size>large</size>, <diet>carnivorous</diet>
       <phenotype>serpents</phenotype> with
       <distinction>dark red scales</distinction>.
       <distinction
         >They have been known to attack and even chase people.</distinction
-      ></description
-    >
+      >
+    </description>
   </creature>
 </biome>
 
 <biome id="forests">
   <name>Forests</name>
-  <creature id="burmut">
+  <creature biomes="forests" id="burmut">
     <name>Burmut</name>
-    <description
-      >A <size>knee-high</size>,
+    <description>
+      A <size>knee-high</size>,
       <distinction>six-legged</distinction>
       <phenotype>mammal</phenotype> with a
       <distinction>fierce looking snout</distinction>. But don't let that fool
       you, these <diet>vegetarians</diet> are quite
-      <mood>snuggly and sweet-tempered</mood>.</description
-    >
+      <mood>snuggly and sweet-tempered</mood>.
+    </description>
   </creature>
-  <creature id="grank">
+  <creature biomes="plains forests" id="grank">
     <name>Grank</name>
     <description
       >Granks are <size>chest-high</size>,
@@ -48,7 +48,7 @@
       ></description
     >
   </creature>
-  <creature id="dabblingwakka">
+  <creature biomes="forests" id="dabblingwakka">
     <name>Dabblingwakka</name>
     <description
       >Dabblingwakkas amble about on their four strong legs. When
@@ -60,7 +60,7 @@
       <distinction>have no fear.</distinction></description
     >
   </creature>
-  <creature id="biddlenut">
+  <creature biomes="forests" id="biddlenut">
     <name>Biddlenut</name>
     <description
       ><distinction
@@ -70,7 +70,7 @@
       <phenotype>three fluffy tails!</phenotype></description
     >
   </creature>
-  <creature id="dirden">
+  <creature biomes="forests plains" id="dirden">
     <name>Dirden</name>
     <description
       >Dirdens are <size>knee-high</size> <diet>carnivores</diet> who
@@ -87,7 +87,7 @@
   </creature>
 
   <creature>
-    <name id="culdinary">Culdinary</name>
+    <name biome="forests marshes swamps rivers" id="culdinary">Culdinary</name>
     <description
       ><phenotype>Many sectioned, armored and green;</phenotype>. Culdinaries
       <movement>scuttle about the forest floor,</movement> scavenging for
@@ -98,7 +98,7 @@
       ></description
     >
   </creature>
-  <creature id="ablegrik">
+  <creature biomes="forests" id="ablegrik">
     <name>Ablegrik</name>
     <description
       >Ablegriks are about <size>waist-high</size>, with
@@ -127,15 +127,56 @@
 <biome id="deserts">
   <creature id="mardlebop">
     <name>Mardlebop</name>
-    <description
-      >Mardlebops are <mythos>said to bring good luck</mythos>, their
+    <description>
+      Mardlebops are <mythos>said to bring good luck</mythos>, their
       <phenotype>yellow fur and puffy white underbelly are so soft</phenotype>
       that
       <custom
         >nobles and royals often adorn their cold-weather clothes with their
         hide</custom
       >. They eat <diet>shrubs</diet>, live in <home>burrows</home>, and
-      <movement>hop about in a very adorable way.</movement></description
-    >
+      <movement>hop about in a very adorable way.</movement>
+    </description>
   </creature>
 </biome>
+<region id="south-rai">
+  <name>South Rai</name>
+  <region id="rai-desert">
+    <name>Rai Desert</name>
+    <description>
+      The Rai Desert bisects Rai along the equator. At it's center is the
+      <region identifier="rai-spring">Rai Spring</region>, which feeds the
+      <region identifier="kalfondel-river">Kalfondel River</region>.
+    </description>
+  </region>
+  <region id="kalfondel-river">
+    <name>Kalfondel River</name>
+    <description>
+      The Kalfondel River winds it's way south from the center of the
+      <region directions="north" identifier="rai-desert">Rai Desert</region>,
+      along the east edge of the
+      <region directions="west" identifier="fondeloon-forest">
+        Fondeloon Forest
+      </region>
+      to the
+      <region directions="south" identifer="bay-of-del">Bay of Del</region>.
+    </description>
+  </region>
+  <region id="fondeloon-forest">
+    <name>Fondeloon Forest</name>
+    <description>
+      The Fondeloon Forest is a massive network of deciduous and evergreen
+      trees. It is bordered to the east by the
+      <region directions="east" identifier="kalfondel-river"
+        >Kalfondel River</region
+      >
+      and to the southeast by the
+      <region directions="southeast" identifier="bay-of-del">Bay of Del</region
+      >. The town of
+      <region direction="southeast" identifier="del">Del</region> is nestled
+      along it's southeastern tip. It's westernmost tip just reaches
+      <region identifer="lake-oontal" directions="west">Lake Oontal</region> and
+      the city of <region direction="west" identifier="oon">Oon</region>.
+    </description>
+  </region>
+</region>
