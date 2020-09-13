@@ -1,6 +1,7 @@
-#!/usr/bin/env -S deno run --no-check --allow-write --allow-read --unstable
+#!/usr/bin/env -S deno run --allow-write --allow-read
 
-import { readJson, writeJson, parseFlags } from "./deps.bundle.js";
+import { readJson, writeJson } from './lib/fs-json.ts'
+import { parseFlags } from "./deps.bundle.js";
 import { loadOrGenerate } from "./lib/tile.js";
 import { translateAll } from "./lib/coordinate.js";
 
