@@ -1,7 +1,7 @@
 #!/usr/bin/env -S deno run --allow-write --allow-read
 
-import { readJson, writeJson } from './lib/fs-json.ts'
-import { parseFlags } from "./deps.bundle.js";
+import { readJson, writeJson } from "./lib/fs.ts";
+import { parseFlags } from "./lib/cli.ts";
 import { loadOrGenerate } from "./lib/tile.js";
 import { translateAll } from "./lib/coordinate.js";
 
