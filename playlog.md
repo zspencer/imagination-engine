@@ -216,5 +216,41 @@ The Kal-dar share some stories from their homes, and even Daw joins in.
 As time passes, both Felt and Thel are in a happy stupor of food and story
 telling.
 
-### Noon, Ends at 5,4, 
+### Noon, Ends at 5,4,
 
+## Session 6 (Fifth of Ahn, Mid-Afternoon, Clear)
+
+While Thel takes a nap, the Kal-Dar broke camp, and Daw went back to their hut
+to gather some supplies.
+
+Thel wakes up and scratches Felt, who seems warm and relaxed from the nap.
+
+Thel heads north. The woods grow progressively darker, with the birds and
+animals making their "this is mine" calls instead of their mating calls or
+eating songs.
+
+Thel chats a bit with Daw, who has been chanting in a language that Thel does
+not understand.
+
+Thel separates from the group to follow the sound of water.
+
+Upon finding the creek, Thel stumbled upon an Ablegrik attacking a Burmut. Thel
+attempts to intercede, shouting for the Kal-Dar and Daw.
+
+The shout attracts a Dabblingwakka and two Bedarer.
+
+Thel is injured by the Dabblingwakka, but  Daw uses their druidic magic to calm
+the Bedarer. Felt scares off the Ablegrik.
+
+Earl is able to use their knife to bring down the Dabblingwakka, but is shot
+accidentally by Eye.
+
+Daw heals the Dabblinwakka, while complaining about the brutality of Thel and
+the group.
+
+Daw teaches Thelonious the Druidic phrase, "Darra Nay, Tarra Shen" which shows
+the light and dark druidic powers.
+
+Thel retreats to their tent for the night.
+
+### Ends at Night
