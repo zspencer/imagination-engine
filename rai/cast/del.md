@@ -50,3 +50,6 @@ Cun wears a rought flax robe, his beard is neatly braided and oiled.
 
 Daw lives in a bright pink hut in the forests North West of Del. As a druid, Daw
 transforms into a powerful Dablingwakka.
+
+Daw wears drab cloth that is clearly to big for them. It's bound up so as to
+prevent catching.

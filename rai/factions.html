@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction id="kal">
+  <name>Kal (faction)</name>
+  <location id="kal-city">
+    <name>Kal (city)</name>
+    <description>
+      Kal is a city with beauitful stone walls hewn from the side of a mountain
+      using powerful magic. It is ruled by the
+      <person ref="duke-of-kal">Duke of Kal</person>; a somewhat pompous oaf.
+    </description>
+  </location>
+
+  <faction id="kal-dar">
+    <name>Kal-Dar</name>
+    <description>
+      <p>
+        Exciled from the northern city of Kal, the Kal-Dar are hungry, scared,
+        and worn down. They were driven by their homes by the
+        <relationship nemesis ref="kal-royalists"> Kal Royalists </relationship
+        >.
+      </p>
+
+      <p>
+        For months, they have traveled. First, heading southwest to the
+        <location ref="oon"> City of Oon</location>, then heading east along the
+        southern road through the
+        <location ref="fondaloon-forsest"> Fondaloon Forest </location>
+        to the <location ref="del">Village of Del</location>, which they've
+        resorted to raiding for food from their
+        <location ref="kal-dar-camp">camp</location>.
+      </p>
+
+      <p>
+        They are not particularly cunning or skillful. Most of the Kal-Dar are
+        former shop-keeps and tradesfolk who were on the wrong side of an
+        insurgency that got a bit more heated than intended. They lack most
+        survival skills.
+      </p>
+
+      <p>
+        They have recently been taken under the wing of
+        <person rel="thelonious-lacroix">Thelonious LaCroix</person>
+      </p>
+    </description>
+    <person id="fes-kal-dar">
+      <name>Fes</name> of the <affiliation ref="kal-dar">Kal-Dar</affiliation>,
+      <flaw>Megalomaniac</flaw>, Seeker of <ideal>Power</ideal>
+      <description>
+        <p>
+          Fes has <phenotype>light grey eyes</phenotype> and wears
+          <clothing>light hide armor over a brown tunic</clothing> and wields a
+          <weapon
+            >two-handed long-sword with a beautiful hilt hidden beneath a
+            wrapping of leather</weapon
+          >.
+        </p>
+
+        <p>
+          Fes is particularly <personality>distrustful</personality>, and as the
+          de-factor leader of the Kal-Dar is
+          <personality>gruff and overly protective</personality>.
+        </p>
+        <aspiration
+          >Fes dreams of one-day returning home; and ruling Kal.</aspiration
+        >
+      </description>
+      <relationship with="thelonious-lacroix" low-trust>
+        Fes is not particularly keen on losing a position of authority to
+        Thelonoious. Further, their defeat in battle still smarts.
+      </relationship>
+      <relationship with="earl-kal-dar" high-trust
+        >Fes trust Earl deeply, but is beginning to resent the perceived lack of
+        loyalty Earl displays.
+      </relationship>
+      <relationship with="ben-kal-dar" distant
+        >Fes feels Ben is their inferior</relationship
+      >
+      <relationship with="eye-kal-dar" disdainful
+        >Fes feels Ben is cowardly and weak</relationship
+      >
+    </person>
+    <person id="earl-kal-dar">
+      <name>Earl</name> of the <affiliation ref="kal-dar">Kal-Dar</affiliation>,
+      <flaw>Thief</flaw>, seeker of <ideal>Order</ideal>
+      <description>
+        Earl wears a
+        <clothing>loose-fitting, light grey tunic kept near-spotless</clothing>.
+        Earl doesn't carries no <em>visible</em> weapons, but a keen observer
+        may notice the <weapon>small knife strapped to their forearm</weapon>.
+        An even keener observer would notice the other,
+        <weapon>larger knife in their boot</weapon>. Preferring subterfuge over
+        direct force; Earl is adept at <skill>picking locks</skill>. Earl just
+        wants <aspiration>to be happy and safe</aspiration>, but sticks around
+        to <responsibility>take care of Fes.</responsibility>
+      </description>
+    </person>
+
+    <person id="ben-kal-dar">
+      <name>Ben</name> of the <affiliation ref="kal-dar">Kal-Dar</affiliation>.
+      <flaw>Wrathful</flaw>; Seeker of <ideal>Justice</ideal>
+      <name>Earl</name> of the <affiliation ref="kal-dar">Kal-Dar</affiliation>,
+      <description>
+        Ben wields a <weapon>short sword</weapon> and wears a
+        <clothing>tattered yellow tunic</clothing>. Ben is quite displeased with
+        the way things went down in Kal.
+        <personality>Angry, unsure and simmering</personality>; Ben follows Fes
+        out of a hope to
+        <aspiration
+          >achieve some form of justice for their suffering.</aspiration
+        >
+        In Kal, Ben's old shop was an antiquities and jeweler.
+      </description>
+    </person>
+    <person>
+      ### Eye the Fearful; Seeker of Compassion (2/1) Eye carries a short-bow,
+      and wears a tattered blue tunic with grubby brown pants. Eye wants
+      everyone to get along, and is terrified of being left behind or alone.
+    </person>
+
+    <location id="kal-dar-camp" latitude="4" longitude="3"> </location>
+    <inventory-item quantity="1">
+      A potion for curing of illness and eliminating poison.
+    </inventory-item>
+  </faction>
+  <faction id="kal-royalists">
+    <name>Kal Royalists</name>
+  </faction>
+</faction>
