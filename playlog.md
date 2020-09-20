@@ -150,3 +150,71 @@ a Culdinary to death with their short sword; quite ungracefully.
 Daw agrees to teach them how to cook what they've gathered and hunted.
 
 End at 4,5
+
+## Session 5 (Fifth of Ahn, Early Morning, Clear)
+
+The forest is bustling and active; it forest smells damp, with the morning dew. 
+
+Thel greets Fes who is the only kal-dar awake. Thel shows Fes how to make a bed
+from grass and reeds.
+
+Thel catches Fes' eyes and uses Soulgaze to learn that Fez's is a seeker of
+Power, and they are cowardly.
+
+The rest of the camp begins to awake, with Daw remaining a little bit asleep.
+
+Thel carves a piece of walnut wood icon while waiting for Felt to awake.
+
+Thel feeds Felt some berries by rolling them about the tent for play. Thel uses
+Speak with Animal on Felt.
+
+Felt shares that the north has smelt both scary and interesting. A sickly
+sweatness, like something just beginning to rot and it's gotten worse.
+
+Thel wakes Daw, and offers to make tea. They sanitize some nearby cups from last
+night, and brew some tea.
+
+Thel asks Daw about the rotting smell. Daw shares that the Dark Druids came
+years ago, and began to absorb the life from the creaures of the forest. Daw has
+been keeping the people of Del safe by bringing the forest back to harmony.
+
+The forest is brought into harmony by noticing when things are out of balance.
+
+Earl is showing Eye and Ben how to use their weapons. Fes is watching and
+simmering a bit.
+
+Thel asks Earl what they think about the dark druids and disharmony. Earl
+responded nonchalantly. Thel asks how Earl got to Del; and Earl shares that they
+came from the West, through Oon.
+
+Thel throws their tent in a  tin into the air to capture everyones attention and
+announces their intent to teach survival by going through the heart of the
+forest.
+
+Fes, angrily retorts that they avoided the forest heading down because of how it
+is cursed.
+
+Thel replies that it could make the group strongest, and that it bothers them as
+a ranger; and may even be something connected to their city.
+
+But Thel leaves it to Fes to decide.
+
+Fes agrees, and Thel makes a Culdinary Bacon and Wild bird eggs for a forest
+brunch and berries for Sangria.
+
+"Every honorable journey starts with a good meal and a Story"
+
+"Once upon a time There was a very tall 5 year old, with large eyebrows. He wore
+rough-cut, reliable clothing in a very humble town. He had great aspirations, a
+dream of visiting the stars and finding honor. Over the time, he gathered scar
+after worn scar. The one forgiveness of this experience was learning so much of
+the fauna and flora of many lands. I'm now 75 years old, but I'm still seeking
+honor and am proud you chose to come with me."
+
+The Kal-dar share some stories from their homes, and even Daw joins in.
+
+As time passes, both Felt and Thel are in a happy stupor of food and story
+telling.
+
+### Noon, Ends at 5,4, 
+
