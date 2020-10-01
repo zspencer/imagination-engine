@@ -7,6 +7,6 @@ Failure: Miss both
 Catastrophic failure: Miss both, plus a setback
 
 ## "Darra Nay, Tarra Shen" (2ap)
-Shows the influence of Dark Magics in the Creatures and World. 
+Shows the influence of Light and Dark Magics in Creatures and the World.
 
-Dark magics are fueled by Greed, Pride, or Arrogance and grow the power of the
+Dark magics are fueled by Greed, Thoughtlessness or Arrogance
