@@ -254,3 +254,22 @@ the light and dark druidic powers.
 Thel retreats to their tent for the night.
 
 ### Ends at Night
+
+## Session 7 (Sixth of Ahn, Early Morning, cloudy)
+
+The morning. The woods are filled with the sounds of morning creatures. They
+seem anxious, with higher tensions.
+
+Thelonious chants "Darra Nay, Tarra Shen" and finds that the wind is blowing a
+dark ash like substance southways, and it flows deeply through the creek.
+
+Thel teaches Eye how to shoot arrows, in the hopes that they will stop hitting
+their friends.
+
+Thel returns to see Daw and Felt playing, tossing ancorns back and forth. Thel
+thinks about how to not leave the Kal-Dar behind.
+
+Thel tasks Ben with filling water and bringing it to Daw, who cleanses it of the
+dark magic.
+
+### End at Morning
