@@ -1,4 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<party>
+  <person id="thelonious-lacroix">
+    <name>Thelonious Lacroix</name>
+
+    <ability ref="double-arrow" />
+    <ability ref="darra-nay-tarra-shen" />
+    <item>Icon</item>
+  </person>
+  <person ref="daw-delian-woodfolk" />
+  <person ref="fes-kal-dar" />
+  <person ref="ben-kal-dar" />
+  <person ref="eye-kal-dar" />
+</party>
+<faction id="del">
+  <name>Del</name>
+  <location id="del-region">
+    <name>Del (region)</name>
+    <description>
+      <p>
+        A large wilderness nearly centered along the southern cost of
+        <location ref="rai">Rai</location>. It includes much of the
+        <location ref="fondeloon-forest">Fondeloon Forest</location>, the
+        <location ref="delvin-grasslands">Delvin Grasslands</location>.
+      </p>
+
+      <p>
+        Del is bisected by the
+        <location ref="kalfondel-river">Kalfondel River</location>, which feeds
+        the <location ref="bay-of-del">Bay of Del</location> and serves as a key
+        artery for trade.
+      </p>
+
+      <p>
+        While most of Del is unpopulated, there is a small community of farmers,
+        tradesfolk, and monks in the
+        <location ref="del-village">Village of Del</location>.
+      </p>
+    </description>
+  </location>
+
+  <location id="del-village">
+    <name>Del (village)</name>
+    <description>
+      The village of Del sits on the southern coast of Rai, near the tip of the
+      gulf of Del. It's a peaceful village, that mostly serves as a place for
+      the
+      <faction ref="monks-of-del">monks of del</faction> to study their
+      philosophy.
+    </description>
+  </location>
+
+  <faction id="delian-woodfolk">
+    <name>The Delian Woodfolk</name>
+    <person id="daw-delian-woodfolk">
+      <name>Daw</name> of the
+      <affiliation ref="delian-woodfolk">Delian Woodfolk</affiliation>,
+      <flaw>Vain</flaw>, Seeker of <ideal>Salvation</ideal>.
+      <description>
+        Daw lives in a bright pink hut in the forests North West of Del. As a
+        druid, Daw <ability>transforms into a powerful Dablingwakka.</ability>
+
+        Daw wears
+        <clothing>
+          drab cloth that is clearly to big for them, bound up to prevent
+          catching in the woods </clothing
+        >.
+      </description>
+    </person>
+  </faction>
+  <faction id="del-defenders">
+    <name>The Del Defenders</name>
+    <description>
+      A loose affiliation of Delians who try to keep the peace as best they can.
+      The raids by the
+      <faction ref="kal-dar"> Kal-Dar </faction> seem to have galvanized them
+      into a more aggressive stance.
+    </description>
+    <person>
+      #### Ban, the liar; seeker of generosity (2/1) Ban wears a yellow tunic
+      and carries a short sword. (his nostril flairs when he lies)
+    </person>
+    <person>
+      #### Ee, the fool; seeker of honor (4/2) Ee wears a light yellow tunic
+      beneath soft hide armor. There is a mark in the shape of three triangles
+      burned into his chest armor that denotes his rank as captain. He carries a
+      shortsword and a small hide buckler; as well as some bracers.
+    </person>
+    <person>
+      #### Ahr, the Hedonist; Seeker of The Ends (2/1) Ahr wears a red tunic and
+      soft hide armor. He carries a short sword.
+    </person>
+    <person>
+      #### Car, the reckless; seeker of honor (4/2) Car wears a blue tunic, and
+      no armor. He carries a short bow, a small knife, and a quiver of arrows.
+    </person>
+  </faction>
+  <faction id="monks-of-del">
+    <name>Monks of Del</name>
+    <description>
+      The monks mostly concern themselves with the spiritual and philosophical
+      questions, such as "why are we here?" and "is that my lunch?"
+    </description>
+    <person>
+      #### Arn, the oblivious; seeker of compassion (4/2) Arn wears a plain
+      white tunic.
+    </person>
+    <person>
+      #### Daw, the oblivious; seeker of the ends (2/1) Daw wears a rough brown
+      robe, his bald head gleams with sweat.
+    </person>
+    <person>
+      #### Cun, the impish; seeker of compassion (2/1) Cun wears a rought flax
+      robe, his beard is neatly braided and oiled.
+    </person>
+  </faction>
+</faction>
 <faction id="kal">
   <name>Kal (faction)</name>
   <location id="kal-city">
@@ -60,9 +176,7 @@
           de-factor leader of the Kal-Dar is
           <personality>gruff and overly protective</personality>.
         </p>
-        <aspiration
-          >Fes dreams of one-day returning home; and ruling Kal.</aspiration
-        >
+        <hope>Fes dreams of one-day returning home; and ruling Kal.</hope>
       </description>
       <relationship with="thelonious-lacroix" low-trust>
         Fes is not particularly keen on losing a position of authority to
@@ -90,8 +204,8 @@
         An even keener observer would notice the other,
         <weapon>larger knife in their boot</weapon>. Preferring subterfuge over
         direct force; Earl is adept at <skill>picking locks</skill>. Earl just
-        wants <aspiration>to be happy and safe</aspiration>, but sticks around
-        to <responsibility>take care of Fes.</responsibility>
+        wants <hope>to be happy and safe</hope>, but sticks around to
+        <responsibility>take care of Fes.</responsibility>
       </description>
     </person>
 
@@ -105,16 +219,20 @@
         the way things went down in Kal.
         <personality>Angry, unsure and simmering</personality>; Ben follows Fes
         out of a hope to
-        <aspiration
-          >achieve some form of justice for their suffering.</aspiration
-        >
+        <hope>achieve some form of justice for their suffering.</hope>
         In Kal, Ben's old shop was an antiquities and jeweler.
       </description>
     </person>
-    <person>
-      ### Eye the Fearful; Seeker of Compassion (2/1) Eye carries a short-bow,
-      and wears a tattered blue tunic with grubby brown pants. Eye wants
-      everyone to get along, and is terrified of being left behind or alone.
+    <person id="eye-kal-dar" minion>
+      <name>Eye</name> the <flaw>Fearful</flaw>; Seeker of
+      <ideal>Compassion</ideal>
+
+      <description>
+        Eye carries a <weapon>short-bow</weapon>, and wears a
+        <clothing>tattered blue tunic with grubby brown pants.</clothing> Eye
+        wants <hope>everyone to get along</hope>, and is terrified of
+        <fear>being left behind or alone</fear>.
+      </description>
     </person>
 
     <location id="kal-dar-camp" latitude="4" longitude="3"> </location>
