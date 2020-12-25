@@ -1,5 +1,5 @@
 #!/usr/bin/env -S deno run --unstable --watch --allow-write --allow-read --allow-net
-import { prompt, execute, render } from "./lib/cli.ts";
+import { execute, prompt, render } from "./lib/cli.ts";
 
 let lastCommand = "";
 while (lastCommand != "quit") {
