@@ -1,0 +1,54 @@
+svg[data-rotate="1"] {
+  transform: rotate(60deg);
+}
+
+svg[data-rotate="2"] {
+  transform: rotate(120deg);
+}
+
+svg[data-rotate="3"] {
+  transform: rotate(180deg);
+}
+
+svg[data-rotate="4"] {
+  transform: rotate(240deg);
+}
+
+svg[data-rotate="5"] {
+  transform: rotate(300deg);
+}
+
+svg {
+  width: 100px;
+  height: 88px;
+  transform-origin: 50% 50%; /* Chrome, Firefox behaves differently */
+  display: inline-block;
+  transition: transform .1s ease-in;
+}
+
+* { margin: 0; padding: 0 }
+body {
+
+}
+.grid  {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  width: 1080px;
+}
+
+.row:nth-child(even) svg {
+  margin-top: -45px;
+  margin-left: 75px;
+  margin-right: -25px;
+}
+
+.row:nth-child(odd) svg {
+  margin-top: -45px;
+  margin-right: 50px
+}
+
+
+svg {
+  fill: purple;
+}
